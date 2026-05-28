@@ -1,0 +1,16 @@
+write a program to check anagram in array 
+problem Statement:
+Given a String of different words, group all the anagrams together.
+ 
+Input: arr[] = ["cat", "god", "act", "dog", "tac", "abb", "aac"]
+Output: [[“act”, “cat”, “tac”], [“god”, “dog”], ["abb"], ["aac"]]
+ 
+Explanation: 
+There are 2 groups of anagrams  “act”, “cat”, “tac” make group 1. “god”, “dog” make group 2. Then there are no anagrams for "aac" and "abb".
+
+
+how to handle fault tolerance
+what is virtual threads
+how to handle concurrency in threaded environment
+what is completablefuture
+

@@ -14,4 +14,4 @@ what is virtual threads
 how to handle concurrency in threaded environment
 what is completablefuture
 how stream works internally
-
+why stream is lazy loaded
